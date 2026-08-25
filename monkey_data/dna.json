@@ -1,14 +1,14 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "23df5fae54259712",
-  "mutation_count": 174,
+  "dna_hash": "cf284257831db996",
+  "mutation_count": 176,
   "birth_timestamp": 355496,
   "traits": {
     "body_color": {
-      "value": "brown",
-      "rarity": "common",
-      "gene_sequence": "d47133ea"
+      "value": "silver",
+      "rarity": "uncommon",
+      "gene_sequence": "2066cd78"
     },
     "face_expression": {
       "value": "happy",
@@ -36,5 +36,5 @@
       "gene_sequence": "adefa377"
     }
   },
-  "rarity_score": 35.0
+  "rarity_score": 36.666666666666664
 }
